@@ -1,0 +1,13 @@
+body {
+  background:gray;
+  border: 3px solid red;
+  margin: 50px;
+  /*padding:50px;*/
+  height: 500px;
+  padding-bottom: 75%;
+  /* 600 px wide, 800px tall*/
+}
+
+h1, h2{
+  text-align: center;
+}
