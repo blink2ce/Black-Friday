@@ -1,13 +1,30 @@
 body {
-  background:gray;
-  border: 3px solid red;
+  background: #323232;
+  border: 3px solid white;
   margin: 50px;
-  /*padding:50px;*/
-  height: 500px;
-  padding-bottom: 75%;
-  /* 600 px wide, 800px tall*/
+  height: auto;
+  padding-bottom: 20%;
+  min-width: 358px;
 }
 
 h1, h2{
   text-align: center;
+  font-family:'Open Sans', sans-serif;
+  font-weight:400;
+  margin:0;
+}
+
+.banner {
+  margin:auto;
+  margin-top:20%;
+}
+
+h1 {
+  color:#32B0E1;
+  font-size:6em;
+}
+
+h2{
+  color:white;
+  font-size:4em;
 }
